@@ -22,8 +22,6 @@ To see some of the structures, head to the [images tab](https://www.curseforge.c
 
 [![Browse every structure live in 3D](https://pub-24a4e0e7ea8544a5b6f73c3a23512589.r2.dev/images/f8fe835413394a76b10a678afefea30f.png)](https://previews.moogsmods.com/ocean-structures/1.21/)
 
-<!-- TODO: confirm the previews URL slug once the page is live. Voyager Structures uses https://previews.moogsmods.com/voyager-structures/1.21.1/ -->
-
 ![Features Banner](https://pub-24a4e0e7ea8544a5b6f73c3a23512589.r2.dev/images/9c87c19a4a12475db5f3270d608ceeb0.png)
 
 ![Showcase Banner](https://pub-24a4e0e7ea8544a5b6f73c3a23512589.r2.dev/images/19a44946985740a0b930f07bfd5b7fe7.png)
