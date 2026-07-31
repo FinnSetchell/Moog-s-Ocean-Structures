@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {"structure": "mos:ruins_atlantis", "weight": 1}
+  ],
+  "placement": {
+    "type": "moogs_structures:advanced_random_spread",
+    "spacing": 60,
+    "separation": 24,
+    "salt": 429183756,
+    "spread_type": "linear",
+    "frequency": 1,
+    "locate_offset": [0, 0, 0]
+  }
+}
