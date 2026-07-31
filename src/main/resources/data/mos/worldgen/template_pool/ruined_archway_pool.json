@@ -1,0 +1,18 @@
+{
+  "name": "mos:ruined_archway_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:ruined_archway",
+        "locations": {
+          "1.21-26.1.2": "mos:ruined_archway"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

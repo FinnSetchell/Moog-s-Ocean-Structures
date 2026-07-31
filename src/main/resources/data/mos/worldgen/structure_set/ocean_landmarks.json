@@ -1,0 +1,57 @@
+{
+  "structures": [
+    {
+      "structure": "mos:ruined_castle",
+      "weight": 1
+    },
+    {
+      "structure": "mos:ruined_archway",
+      "weight": 1
+    },
+    {
+      "structure": "mos:ruined_church",
+      "weight": 1
+    },
+    {
+      "structure": "mos:sea_dragon_skeleton",
+      "weight": 1
+    },
+    {
+      "structure": "mos:conduit_arch",
+      "weight": 1
+    },
+    {
+      "structure": "mos:underwater_shrine",
+      "weight": 1
+    },
+    {
+      "structure": "mos:underwater_garden",
+      "weight": 1
+    },
+    {
+      "structure": "mos:magma_block_ravine",
+      "weight": 1
+    },
+    {
+      "structure": "mos:hauling_ship_1",
+      "weight": 1
+    },
+    {
+      "structure": "mos:ship_small",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "moogs_structures:advanced_random_spread",
+    "spacing": 80,
+    "separation": 32,
+    "salt": 837291560,
+    "spread_type": "linear",
+    "frequency": 1,
+    "locate_offset": [
+      0,
+      0,
+      0
+    ]
+  }
+}

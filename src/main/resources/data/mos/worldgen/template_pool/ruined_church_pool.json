@@ -1,0 +1,19 @@
+{
+  "name": "mos:ruined_church_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:ruined_church",
+        "locations": {
+          "1.21-1.21.8": "mos:1.21/ruined_church",
+          "1.21.9-26.1.2": "mos:ruined_church"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

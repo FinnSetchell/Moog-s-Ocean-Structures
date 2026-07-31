@@ -9,6 +9,16 @@
   - `mos:wanderer_raft` (weighted pool of 10 wood variants: oak, spruce, birch, jungle, acacia, dark_oak, cherry, mangrove, snow, pale_forest)
   - `mos:ruined_house` (weighted pool of 20 sea-floor ruin variants: `ruined_house_1` through `ruined_house_20`)
   - `mos:ruins_atlantis` (weighted pool of 28 deep-ocean Atlantis ruin variants: `ruins_atlantis_1` through `ruins_atlantis_28`)
+  - `mos:ruined_castle`
+  - `mos:ruined_archway`
+  - `mos:ruined_church`
+  - `mos:sea_dragon_skeleton`
+  - `mos:conduit_arch`
+  - `mos:underwater_shrine`
+  - `mos:underwater_garden`
+  - `mos:magma_block_ravine`
+  - `mos:hauling_ship_1`
+  - `mos:ship_small`
 - Mob pools (used by future structures with drowned/axolotl/trader senders):
   - `mos:mobs/wandering_trader` (raft trader, random trades per spawn)
   - `mos:mobs/drowned`

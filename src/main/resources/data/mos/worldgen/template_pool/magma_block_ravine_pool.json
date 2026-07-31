@@ -1,0 +1,18 @@
+{
+  "name": "mos:magma_block_ravine_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:magma_block_ravine",
+        "locations": {
+          "1.21-26.1.2": "mos:magma_block_ravine"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
