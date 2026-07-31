@@ -1,0 +1,19 @@
+{
+  "name": "mos:mobs/axolotl",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:mobs/axolotl",
+        "locations": {
+          "1.21-1.21.4": "mos:mobs/1.21/axolotl",
+          "1.21.5-26.1.2": "mos:mobs/axolotl"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
