@@ -39,6 +39,22 @@
     {
       "structure": "mos:ship_small",
       "weight": 1
+    },
+    {
+      "structure": "mos:atlantis_tribune_a",
+      "weight": 1
+    },
+    {
+      "structure": "mos:atlantis_tribune_b",
+      "weight": 1
+    },
+    {
+      "structure": "mos:prismarine_dog_statue",
+      "weight": 1
+    },
+    {
+      "structure": "mos:dragon_skeleton",
+      "weight": 1
     }
   ],
   "placement": {
