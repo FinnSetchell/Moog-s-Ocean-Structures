@@ -55,6 +55,10 @@
     {
       "structure": "mos:atlantis_tribune",
       "weight": 1
+    },
+    {
+      "structure": "mos:small_ocean_temple",
+      "weight": 1
     }
   ],
   "placement": {

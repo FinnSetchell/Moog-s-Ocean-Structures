@@ -25,6 +25,7 @@
   - `mos:sunken_ship` (weighted pool of 2 multi-piece wood variants: spruce and birch, each with `/rear` + `/front`)
   - `mos:atlantis_tribune` (multi-piece: `/main` + `/wing_a` + `/wing_b`)
   - `mos:small_ship` (weighted pool of 4 variants: `small_acacia_ship_1`, `small_acacia_ship_2`, `small_spruce_ship`, `stained_glass_ship`)
+  - `mos:small_ocean_temple`
 - Mob pools (used by future structures with drowned/axolotl/trader senders):
   - `mos:mobs/wandering_trader` (raft trader, random trades per spawn)
   - `mos:mobs/drowned`
