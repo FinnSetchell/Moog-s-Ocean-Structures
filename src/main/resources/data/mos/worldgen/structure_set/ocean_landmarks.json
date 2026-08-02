@@ -59,6 +59,10 @@
     {
       "structure": "mos:small_ocean_temple",
       "weight": 1
+    },
+    {
+      "structure": "mos:docked_spruce_ship",
+      "weight": 1
     }
   ],
   "placement": {
