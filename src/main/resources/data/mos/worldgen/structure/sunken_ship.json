@@ -1,6 +1,6 @@
 {
   "type": "moogs_structures:moogs_structures_generic_jigsaw_structure",
-  "start_pool": "mos:atlantis_tribune_a_pool",
+  "start_pool": "mos:sunken_ship",
   "size": 1,
   "step": "underground_structures",
   "spawn_overrides": {},

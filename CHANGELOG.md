@@ -20,10 +20,9 @@
   - `mos:hauling_ship_1`
   - `mos:ship_small`
   - `mos:ocean_decor` (weighted pool of 6 small ocean-floor pieces: `pufferfish_dome`, `clam_shell`, `chest_stone`, `ruined_wall_1`, `axolotl`, `buried_treasure_1`)
-  - `mos:atlantis_tribune_a`
-  - `mos:atlantis_tribune_b`
   - `mos:prismarine_dog_statue`
   - `mos:dragon_skeleton`
+  - `mos:sunken_ship` (weighted pool of 2 multi-piece wood variants: spruce and birch, each with `/rear` + `/front`)
 - Mob pools (used by future structures with drowned/axolotl/trader senders):
   - `mos:mobs/wandering_trader` (raft trader, random trades per spawn)
   - `mos:mobs/drowned`
