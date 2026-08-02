@@ -1,0 +1,7 @@
+{
+  "name": "mos:atlantis_tribune/main",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {"weight": 1, "element": {"element_type": "moogs_structures:versioned_single_pool_element", "location": "mos:atlantis_tribune/main", "locations": {"1.21-1.21.8": "mos:1.21/atlantis_tribune/main", "1.21.9-26.1.2": "mos:atlantis_tribune/main"}, "projection": "rigid", "processors": "minecraft:empty"}}
+  ]
+}

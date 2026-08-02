@@ -23,6 +23,7 @@
   - `mos:prismarine_dog_statue`
   - `mos:dragon_skeleton`
   - `mos:sunken_ship` (weighted pool of 2 multi-piece wood variants: spruce and birch, each with `/rear` + `/front`)
+  - `mos:atlantis_tribune` (multi-piece: `/main` + `/wing_a` + `/wing_b`)
 - Mob pools (used by future structures with drowned/axolotl/trader senders):
   - `mos:mobs/wandering_trader` (raft trader, random trades per spawn)
   - `mos:mobs/drowned`

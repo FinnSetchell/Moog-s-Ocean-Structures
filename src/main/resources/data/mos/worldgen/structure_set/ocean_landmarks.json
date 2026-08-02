@@ -51,6 +51,10 @@
     {
       "structure": "mos:sunken_ship",
       "weight": 1
+    },
+    {
+      "structure": "mos:atlantis_tribune",
+      "weight": 1
     }
   ],
   "placement": {

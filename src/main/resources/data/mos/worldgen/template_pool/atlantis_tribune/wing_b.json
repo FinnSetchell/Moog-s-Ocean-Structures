@@ -1,0 +1,7 @@
+{
+  "name": "mos:atlantis_tribune/wing_b",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {"weight": 1, "element": {"element_type": "moogs_structures:versioned_single_pool_element", "location": "mos:atlantis_tribune/wing_b", "locations": {"1.21-26.1.2": "mos:atlantis_tribune/wing_b"}, "projection": "rigid", "processors": "minecraft:empty"}}
+  ]
+}
