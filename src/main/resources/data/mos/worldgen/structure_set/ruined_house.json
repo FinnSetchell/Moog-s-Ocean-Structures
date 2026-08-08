@@ -1,14 +1,21 @@
 {
   "structures": [
-    {"structure": "mos:ruined_house", "weight": 1}
+    {
+      "structure": "mos:ruined_house",
+      "weight": 1
+    }
   ],
   "placement": {
     "type": "moogs_structures:advanced_random_spread",
-    "spacing": 40,
-    "separation": 16,
+    "spacing": 36,
+    "separation": 14,
     "salt": 623847152,
     "spread_type": "linear",
     "frequency": 1,
-    "locate_offset": [0, 0, 0]
+    "locate_offset": [
+      0,
+      0,
+      0
+    ]
   }
 }

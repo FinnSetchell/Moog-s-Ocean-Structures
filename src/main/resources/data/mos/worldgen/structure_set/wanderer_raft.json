@@ -7,8 +7,8 @@
   ],
   "placement": {
     "type": "moogs_structures:advanced_random_spread",
-    "spacing": 72,
-    "separation": 28,
+    "spacing": 65,
+    "separation": 25,
     "salt": 812576444,
     "spread_type": "linear",
     "frequency": 1,
