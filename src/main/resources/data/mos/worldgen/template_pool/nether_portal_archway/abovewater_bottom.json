@@ -1,0 +1,19 @@
+{
+  "name": "mos:nether_portal_archway/abovewater_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:nether_portal_archway/abovewater_bottom",
+        "locations": {
+          "1.21-1.21.8": "mos:1.21/nether_portal_archway/abovewater_bottom",
+          "1.21.9-26.1.2": "mos:nether_portal_archway/abovewater_bottom"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

@@ -27,6 +27,7 @@
   - `mos:small_ocean_temple`
   - `mos:rare_travel_ship`
   - `mos:docked_spruce_ship` (multi-piece: `/main` + `/dock`)
+  - `mos:nether_portal_archway` (multi-piece: `/abovewater_bottom` + `/abovewater_top` + `/abovewater_left`)
   - `mos:long_ship` (multi-piece jigsaw ship — hull + left_sail + right_sail + rear cabin; weighted pool of 4 woods: acacia (2 variants), dark_oak, oak, cherry)
 - Long ships are crewed by a pillager raiding party: each ship spawns 1 `Ship Captain` (a named vindicator flying a skull-and-crossbones banner, with an enchanted axe) and 4 raiders drawn from a weighted pool of pillagers, vindicators and evokers.
 - Mob pools (used by future structures with drowned/axolotl/trader senders):
