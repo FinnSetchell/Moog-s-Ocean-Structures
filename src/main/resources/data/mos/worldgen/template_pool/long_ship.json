@@ -1,0 +1,71 @@
+{
+  "name": "mos:long_ship",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:acacia_long_ship/hull",
+        "locations": {
+          "1.21-1.21.8": "mos:1.21/acacia_long_ship/hull",
+          "1.21.9-26.1.2": "mos:acacia_long_ship/hull"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:acacia_long_ship/hull_2",
+        "locations": {
+          "1.21-1.21.8": "mos:1.21/acacia_long_ship/hull_2",
+          "1.21.9-26.1.2": "mos:acacia_long_ship/hull_2"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:dark_oak_long_ship/hull",
+        "locations": {
+          "1.21-1.21.8": "mos:1.21/dark_oak_long_ship/hull",
+          "1.21.9-26.1.2": "mos:dark_oak_long_ship/hull"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:oak_long_ship/hull",
+        "locations": {
+          "1.21-1.21.8": "mos:1.21/oak_long_ship/hull",
+          "1.21.9-26.1.2": "mos:oak_long_ship/hull"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:cherry_long_ship/hull",
+        "locations": {
+          "1.21-1.21.8": "mos:1.21/cherry_long_ship/hull",
+          "1.21.9-26.1.2": "mos:cherry_long_ship/hull"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

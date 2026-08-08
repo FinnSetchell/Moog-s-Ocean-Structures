@@ -1,0 +1,19 @@
+{
+  "name": "mos:oak_long_ship/left_sail",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:oak_long_ship/left_sail",
+        "locations": {
+          "1.21-1.21.8": "mos:1.21/oak_long_ship/left_sail",
+          "1.21.9-26.1.2": "mos:oak_long_ship/left_sail"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

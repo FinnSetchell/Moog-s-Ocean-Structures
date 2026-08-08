@@ -27,6 +27,7 @@
   - `mos:small_ocean_temple`
   - `mos:rare_travel_ship`
   - `mos:docked_spruce_ship` (multi-piece: `/main` + `/dock`)
+  - `mos:long_ship` (multi-piece jigsaw ship — hull + left_sail + right_sail + rear cabin; weighted pool of 4 woods: acacia (2 variants), dark_oak, oak, cherry)
 - Mob pools (used by future structures with drowned/axolotl/trader senders):
   - `mos:mobs/wandering_trader` (raft trader, random trades per spawn)
   - `mos:mobs/drowned`
