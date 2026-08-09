@@ -1,0 +1,19 @@
+{
+  "name": "mos:buried_treasure",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:buried_treasure_1",
+        "locations": {
+          "1.21-1.21.1": "mos:1.21/buried_treasure_1",
+          "1.21.2-26.1.2": "mos:buried_treasure_1"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

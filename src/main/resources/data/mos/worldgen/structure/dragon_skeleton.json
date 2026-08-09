@@ -7,11 +7,11 @@
   "start_height": {
     "absolute": 0
   },
-  "terrain_adaptation": "none",
+  "terrain_adaptation": "beard_thin",
   "cannot_spawn_in_liquid": false,
   "project_start_to_heightmap": "OCEAN_FLOOR_WG",
   "terrain_height_radius_check": 1,
   "allowed_terrain_height_range": 6,
   "biomes": "#mos:is_ocean",
-  "burying_type": "LOWEST_CORNER"
+  "valid_biome_radius_check": 2
 }

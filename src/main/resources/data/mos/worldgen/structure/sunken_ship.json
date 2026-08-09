@@ -16,5 +16,6 @@
   "burying_type": "LOWEST_CORNER",
   "y_allowance": {
     "max_y_allowed": 40
-  }
+  },
+  "valid_biome_radius_check": 2
 }

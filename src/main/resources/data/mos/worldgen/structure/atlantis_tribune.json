@@ -12,5 +12,6 @@
   "project_start_to_heightmap": "OCEAN_FLOOR_WG",
   "terrain_height_radius_check": 1,
   "allowed_terrain_height_range": 6,
-  "biomes": "#mos:is_deep_ocean"
+  "biomes": "#mos:is_deep_ocean",
+  "valid_biome_radius_check": 2
 }

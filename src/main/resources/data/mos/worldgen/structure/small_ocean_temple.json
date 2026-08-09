@@ -12,5 +12,7 @@
   "project_start_to_heightmap": "OCEAN_FLOOR_WG",
   "terrain_height_radius_check": 1,
   "allowed_terrain_height_range": 6,
-  "biomes": "#mos:is_ocean"
+  "biomes": "#mos:is_ocean",
+  "liquid_settings": "ignore_waterlogging",
+  "valid_biome_radius_check": 2
 }
