@@ -1,0 +1,23 @@
+{
+  "processors": [
+    {
+      "processor_type": "moogs_structures:pillar_processor",
+      "direction": "down",
+      "pillar_length": 40,
+      "pillar_trigger_and_replacements": [
+        {
+          "trigger": {"Name": "minecraft:purple_stained_glass"},
+          "replacement": {"Name": "minecraft:stone"}
+        },
+        {
+          "trigger": {"Name": "minecraft:pink_stained_glass"},
+          "replacement": {"Name": "minecraft:deepslate", "Properties": {"axis": "y"}}
+        },
+        {
+          "trigger": {"Name": "minecraft:light_blue_stained_glass"},
+          "replacement": {"Name": "minecraft:tuff"}
+        }
+      ]
+    }
+  ]
+}
