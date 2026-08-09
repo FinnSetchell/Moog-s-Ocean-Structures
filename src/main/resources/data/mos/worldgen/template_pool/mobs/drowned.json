@@ -3,13 +3,26 @@
   "fallback": "minecraft:empty",
   "elements": [
     {
-      "weight": 1,
+      "weight": 9,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:mobs/drowned",
         "locations": {
           "1.21-1.21.4": "mos:mobs/1.21/drowned",
           "1.21.5-26.1.2": "mos:mobs/drowned"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:mobs/drowned_trident",
+        "locations": {
+          "1.21-1.21.4": "mos:mobs/1.21/drowned_trident",
+          "1.21.5-26.1.2": "mos:mobs/drowned_trident"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
