@@ -21,6 +21,21 @@
               "axis": "y"
             }
           }
+        },
+        {
+          "trigger": {
+            "Name": "minecraft:pink_stained_glass"
+          },
+          "replacement": {
+            "Name": "minecraft:dark_oak_fence",
+            "Properties": {
+              "north": "false",
+              "south": "false",
+              "east": "false",
+              "west": "false",
+              "waterlogged": "true"
+            }
+          }
         }
       ]
     }
