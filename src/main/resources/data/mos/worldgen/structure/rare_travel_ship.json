@@ -5,7 +5,7 @@
   "step": "surface_structures",
   "spawn_overrides": {},
   "start_height": {
-    "absolute": -7
+    "absolute": -3
   },
   "terrain_adaptation": "none",
   "cannot_spawn_in_liquid": false,
