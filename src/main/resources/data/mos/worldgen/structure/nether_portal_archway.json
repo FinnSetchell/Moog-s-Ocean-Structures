@@ -15,5 +15,7 @@
     "min_y_allowed": 59,
     "max_y_allowed": 60
   },
+  "terrain_height_radius_check": 1,
+  "allowed_terrain_height_range": 4,
   "biomes": "#mos:is_shore"
 }
