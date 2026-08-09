@@ -4,7 +4,7 @@
 
 Ships and wrecks:
 
-- `mos:long_ship` (multi-piece: hull + `left_sail` + `right_sail` + rear cabin; weighted pool of 4 woods — acacia with 2 full variants, dark_oak, oak, cherry)
+- `mos:long_ship` (multi-piece: hull + `left_sail` + `right_sail` + rear cabin; weighted pool of 4 woods: acacia with 2 full variants, dark_oak, oak, cherry)
 - `mos:sunken_ship` (weighted pool of 2 multi-piece wood variants: spruce and birch, each with `/rear` + `/front`)
 - `mos:rare_travel_ship` (multi-piece: `/front` + `/rear`)
 - `mos:docked_spruce_ship` (multi-piece: `/main` + `/dock`, moored with pillared supports)
@@ -24,7 +24,7 @@ Ruins and landmarks:
 - `mos:ruined_castle`
 - `mos:ruined_church`
 - `mos:ruined_archway`
-- `mos:nether_portal_archway` (multi-piece: `/abovewater_bottom` + `/abovewater_top` + `/abovewater_left`)
+- `mos:nether_portal_archway` (multi-piece: `/below_water_bottom` + `/abovewater_bottom` + `/abovewater_top` + `/abovewater_left` + `/abovewater_bottom_side`; stands in shallow water on a submerged rock plinth with pillared footings)
 
 Oddities and decor:
 
