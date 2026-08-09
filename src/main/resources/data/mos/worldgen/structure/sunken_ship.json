@@ -13,5 +13,8 @@
   "terrain_height_radius_check": 1,
   "allowed_terrain_height_range": 6,
   "biomes": "#mos:is_ocean",
-  "burying_type": "LOWEST_CORNER"
+  "burying_type": "LOWEST_CORNER",
+  "y_allowance": {
+    "max_y_allowed": 40
+  }
 }
