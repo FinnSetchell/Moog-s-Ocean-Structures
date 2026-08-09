@@ -5,14 +5,15 @@
   "step": "surface_structures",
   "spawn_overrides": {},
   "start_height": {
-    "absolute": -2
+    "absolute": 0
   },
-  "terrain_adaptation": "none",
+  "terrain_adaptation": "beard_thin",
   "cannot_spawn_in_liquid": false,
-  "project_start_to_heightmap": "WORLD_SURFACE_WG",
-  "terrain_height_radius_check": 4,
-  "allowed_terrain_height_range": 10,
-  "biomes": "#mos:is_ocean",
-  "burying_type": "LOWEST_CORNER",
-  "valid_biome_radius_check": 2
+  "project_start_to_heightmap": "OCEAN_FLOOR_WG",
+  "burying_type": "AVERAGE_LAND",
+  "y_allowance": {
+    "min_y_allowed": 59,
+    "max_y_allowed": 60
+  },
+  "biomes": "#mos:is_shore"
 }
