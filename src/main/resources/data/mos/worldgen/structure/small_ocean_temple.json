@@ -14,5 +14,10 @@
   "allowed_terrain_height_range": 6,
   "biomes": "#mos:is_ocean",
   "liquid_settings": "ignore_waterlogging",
-  "valid_biome_radius_check": 2
+  "valid_biome_radius_check": 2,
+  "burying_type": "LOWEST_CORNER",
+  "y_allowance": {
+    "min_y_allowed": -64,
+    "max_y_allowed": 41
+  }
 }
