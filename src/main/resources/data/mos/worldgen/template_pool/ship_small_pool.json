@@ -8,7 +8,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:ship_small",
         "locations": {
-          "1.21-26.1.2": "mos:ship_small"
+          "1.20-1.20.6": "mos:ship_small"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

@@ -8,8 +8,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:mobs/pillager",
         "locations": {
-          "1.21-1.21.4": "mos:mobs/1.21/pillager",
-          "1.21.5-26.1.2": "mos:mobs/pillager"
+          "1.20-1.20.6": "mos:mobs/pillager"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -21,8 +20,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:mobs/vindicator",
         "locations": {
-          "1.21-1.21.4": "mos:mobs/1.21/vindicator",
-          "1.21.5-26.1.2": "mos:mobs/vindicator"
+          "1.20-1.20.6": "mos:mobs/vindicator"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -34,8 +32,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:mobs/evoker",
         "locations": {
-          "1.21-1.21.4": "mos:mobs/1.21/evoker",
-          "1.21.5-26.1.2": "mos:mobs/evoker"
+          "1.20-1.20.6": "mos:mobs/evoker"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

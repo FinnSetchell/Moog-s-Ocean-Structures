@@ -8,8 +8,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:mobs/captain",
         "locations": {
-          "1.21-1.21.4": "mos:mobs/1.21/captain",
-          "1.21.5-26.1.2": "mos:mobs/captain"
+          "1.20-1.20.6": "mos:mobs/captain"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

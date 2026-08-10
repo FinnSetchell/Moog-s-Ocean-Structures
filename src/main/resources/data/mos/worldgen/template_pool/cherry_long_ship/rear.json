@@ -8,8 +8,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:cherry_long_ship/rear",
         "locations": {
-          "1.21-1.21.8": "mos:1.21/cherry_long_ship/rear",
-          "1.21.9-26.1.2": "mos:cherry_long_ship/rear"
+          "1.20-1.20.6": "mos:cherry_long_ship/rear"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
