@@ -18,11 +18,6 @@
       "max_nearby_entities": 6,
       "required_player_range": 16,
       "spawn_range": 4
-    },
-    {
-      "processor_type": "moogs_structures:trial_spawner_randomizing_processor",
-      "normal_config": "mos:small_ocean_temple/normal",
-      "ominous_config": "mos:small_ocean_temple/ominous"
     }
   ]
 }
