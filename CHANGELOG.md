@@ -4,10 +4,10 @@
 
 Ships and wrecks:
 
-- `mos:long_ship` (multi-piece: hull + `left_sail` + `right_sail` + rear cabin; weighted pool of 4 woods: acacia with 2 full variants, dark_oak, oak, cherry)
-- `mos:sunken_ship` (weighted pool of 2 multi-piece wood variants: spruce and birch, each with `/rear` + `/front`)
-- `mos:rare_travel_ship` (multi-piece: `/front` + `/rear`)
-- `mos:docked_spruce_ship` (multi-piece: `/main` + `/dock`, moored with pillared supports)
+- `mos:long_ship` (weighted pool of 4 woods: acacia with 2 full variants, dark_oak, oak, cherry)
+- `mos:sunken_ship` (weighted pool of 2 multi-piece wood variants: spruce and birch)
+- `mos:rare_travel_ship`
+- `mos:docked_spruce_ship`
 - `mos:hauling_ship_1`
 - `mos:ship_small`
 - `mos:ship_wreck_oak`
@@ -19,12 +19,12 @@ Ruins and landmarks:
 
 - `mos:ruins_atlantis` (weighted pool of 28 deep-ocean Atlantis ruin variants: `ruins_atlantis_1` through `ruins_atlantis_28`)
 - `mos:ruined_house` (weighted pool of 20 sea-floor ruin variants: `ruined_house_1` through `ruined_house_20`)
-- `mos:atlantis_tribune` (multi-piece: `/main` + `/wing_a` + `/wing_b`)
+- `mos:atlantis_tribune`
 - `mos:small_ocean_temple`
 - `mos:ruined_castle`
 - `mos:ruined_church`
 - `mos:ruined_archway`
-- `mos:nether_portal_archway` (multi-piece: `/below_water_bottom` + `/abovewater_bottom` + `/abovewater_top` + `/abovewater_left` + `/abovewater_bottom_side`; stands in shallow water on a submerged rock plinth with pillared footings)
+- `mos:nether_portal_archway`
 
 Oddities and decor:
 
