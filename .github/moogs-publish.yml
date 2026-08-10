@@ -1,0 +1,22 @@
+schema: 1
+mod:
+  id: mos
+  displayName: "Moog's Ocean Structures"
+  environments: [Server]
+  name: MoogsOceanStructures
+  validate: true
+platforms:
+  curseforge: { projectId: 1628830, slug: mos-moogs-ocean-structures }
+  modrinth:   { projectId: ZKBkklMv, slug: mos-moogs-ocean-structures }
+discord:
+  embedColor: "#1e5fa8"
+  pingDefault: true
+dependencies:
+  - { modrinth: 1oUDhxuy, curseforge: moogs-structure-lib, type: required }
+artifacts:
+  - type: universal-jar
+targets:
+  - branch: 1.21-datapack
+    mc: { start: "1.21", end: "26.1.2" }
+    java: 21
+    displaySuffix: "[UNIVERSAL]"

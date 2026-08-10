@@ -69,18 +69,22 @@ Restart the terminal after running `setx` so the new value is visible. Then `.\v
 
 - **Build** (`.github/workflows/build.yml`): runs on every push and PR
 - **Validate** (`.github/workflows/validate.yml`): runs the structure validator on every push and PR (catches issues before release)
-- **Release** (`.github/workflows/release.yml`): triggers on tags `*.*.*-*.*.*` (e.g. `5.0.5-1.20`); builds, validates, publishes to Modrinth + CurseForge + Discord, creates a GitHub Release, and post-bumps the patch version
+- **Release** (`.github/workflows/release.yml`): triggers on tags `*.*.*-*` (e.g. `1.0.1-1.21`); builds, validates, and posts a review card to Discord. Nothing is published until a human approves it there
+- **Publish** / **Verify** (`.github/workflows/publish.yml`, `verify.yml`): dispatched by the release bot after approval; they upload to Modrinth + CurseForge, create the GitHub Release, and wait for CurseForge approval before announcing
 - **Dependabot**: weekly auto-bumps of GitHub Actions versions
 
 ## Releasing
 
 ```bash
 # After your changes are merged into the version branch:
-git tag 5.0.5-1.20      # format: <modVersion>-<mcVersion>
-git push origin 5.0.5-1.20
+git tag 1.0.1-1.21      # format: <mod_version>-<mc>
+git push origin 1.0.1-1.21
 ```
 
-The release workflow handles everything from there, including auto-bumping `modVersion` in `gradle.properties` after a successful publish so the next release starts at the next patch version.
+Pushing the tag does not publish. It builds, validates, and posts a review card to Discord;
+approving there is what triggers the upload. Bump `mod_version` in `gradle.properties`
+yourself before tagging, and write the matching `CHANGELOG.md` entry first, since the release
+refuses to publish without one.
 
 ## Questions
 
