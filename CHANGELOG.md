@@ -2,7 +2,7 @@
 
 ### Changed
 
-- `mos:nether_portal_archway` block palette tidied up: the stray green wool and green concrete powder are gone, and a grass block was added
+- `mos:nether_portal_archway` block palette tidied up: the green wool and green concrete powder have been switched out with natural blocks.
 
 ## [1.0.0] - 2026-08-09
 
