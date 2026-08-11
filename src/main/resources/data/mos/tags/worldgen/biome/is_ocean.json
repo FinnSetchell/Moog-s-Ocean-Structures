@@ -1,6 +1,7 @@
 {
   "values": [
     "#minecraft:is_ocean",
+    {"id": "#c:ocean", "required": false},
     {"id": "#c:is_ocean", "required": false}
   ]
 }
