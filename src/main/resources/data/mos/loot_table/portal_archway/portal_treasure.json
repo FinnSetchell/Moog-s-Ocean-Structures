@@ -8,25 +8,25 @@
           "type": "minecraft:item",
           "name": "minecraft:golden_helmet",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_chestplate",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_leggings",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_boots",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         }
       ]
     },

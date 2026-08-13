@@ -8,25 +8,25 @@
           "type": "minecraft:item",
           "name": "minecraft:leather_helmet",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:leather_chestplate",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:leather_leggings",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:leather_boots",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         }
       ]
     },

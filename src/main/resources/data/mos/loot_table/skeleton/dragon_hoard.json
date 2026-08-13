@@ -8,31 +8,31 @@
           "type": "minecraft:item",
           "name": "minecraft:diamond_helmet",
           "weight": 4,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond_boots",
           "weight": 4,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_chestplate",
           "weight": 8,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_leggings",
           "weight": 8,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_helmet",
           "weight": 8,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         }
       ]
     },
@@ -68,9 +68,9 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:enchanted_book",
+          "name": "minecraft:book",
           "weight": 8,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_with_levels", "options": "#minecraft:on_random_loot", "levels": { "min": 25, "max": 35 } }]
         },
         {
           "type": "minecraft:item",

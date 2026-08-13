@@ -50,13 +50,13 @@
           "type": "minecraft:item",
           "name": "minecraft:iron_helmet",
           "weight": 4,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:iron_boots",
           "weight": 4,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:empty",

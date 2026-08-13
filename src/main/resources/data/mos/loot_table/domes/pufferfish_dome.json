@@ -94,7 +94,7 @@
           "type": "minecraft:item",
           "name": "minecraft:diamond_helmet",
           "weight": 4,
-          "functions": [{ "function": "minecraft:enchant_randomly" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
         },
         {
           "type": "minecraft:empty",
