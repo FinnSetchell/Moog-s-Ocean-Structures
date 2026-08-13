@@ -10,10 +10,6 @@
         {
           "entity": "minecraft:drowned",
           "weight": 4
-        },
-        {
-          "entity": "minecraft:elder_guardian",
-          "weight": 1
         }
       ],
       "min_spawn_delay": 200,
