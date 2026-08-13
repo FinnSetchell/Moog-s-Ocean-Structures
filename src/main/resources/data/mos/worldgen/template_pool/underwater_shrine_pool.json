@@ -9,7 +9,7 @@
         "location": "mos:underwater_shrine",
         "locations": {
           "1.21-1.21.1": "mos:1.21/underwater_shrine",
-          "1.21.2-26.1.2": "mos:underwater_shrine"
+          "1.21.2-26.2": "mos:underwater_shrine"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

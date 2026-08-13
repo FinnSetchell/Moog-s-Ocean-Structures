@@ -9,7 +9,7 @@
         "location": "mos:sunken_birch_ship/front",
         "locations": {
           "1.21-1.21.8": "mos:1.21/sunken_birch_ship/front",
-          "1.21.9-26.1.2": "mos:sunken_birch_ship/front"
+          "1.21.9-26.2": "mos:sunken_birch_ship/front"
         },
         "projection": "rigid",
         "processors": "mos:sunken_ship_mobs"

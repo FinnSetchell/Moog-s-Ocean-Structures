@@ -9,7 +9,7 @@
         "location": "mos:sunken_spruce_ship/rear",
         "locations": {
           "1.21-1.21.8": "mos:1.21/sunken_spruce_ship/rear",
-          "1.21.9-26.1.2": "mos:sunken_spruce_ship/rear"
+          "1.21.9-26.2": "mos:sunken_spruce_ship/rear"
         },
         "projection": "rigid",
         "processors": "mos:sunken_ship_mobs"
@@ -22,7 +22,7 @@
         "location": "mos:sunken_birch_ship/rear",
         "locations": {
           "1.21-1.21.8": "mos:1.21/sunken_birch_ship/rear",
-          "1.21.9-26.1.2": "mos:sunken_birch_ship/rear"
+          "1.21.9-26.2": "mos:sunken_birch_ship/rear"
         },
         "projection": "rigid",
         "processors": "mos:sunken_ship_mobs"

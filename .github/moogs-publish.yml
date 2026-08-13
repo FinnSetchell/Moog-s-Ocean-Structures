@@ -21,6 +21,6 @@ targets:
     java: 21
     displaySuffix: "[UNIVERSAL]"
   - branch: 1.21-datapack
-    mc: { start: "1.21", end: "26.1.2" }
+    mc: { start: "1.21", end: "26.2" }
     java: 21
     displaySuffix: "[UNIVERSAL]"

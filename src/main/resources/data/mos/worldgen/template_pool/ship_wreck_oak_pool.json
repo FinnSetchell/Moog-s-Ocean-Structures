@@ -8,7 +8,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:ship_wreck_oak",
         "locations": {
-          "1.21-26.1.2": "mos:ship_wreck_oak"
+          "1.21-26.2": "mos:ship_wreck_oak"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

@@ -9,7 +9,7 @@
         "location": "mos:acacia_long_ship/left_sail_2",
         "locations": {
           "1.21-1.21.8": "mos:1.21/acacia_long_ship/left_sail_2",
-          "1.21.9-26.1.2": "mos:acacia_long_ship/left_sail_2"
+          "1.21.9-26.2": "mos:acacia_long_ship/left_sail_2"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

@@ -9,7 +9,7 @@
         "location": "mos:mobs/wandering_trader",
         "locations": {
           "1.21-1.21.4": "mos:mobs/1.21/wandering_trader",
-          "1.21.5-26.1.2": "mos:mobs/wandering_trader"
+          "1.21.5-26.2": "mos:mobs/wandering_trader"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

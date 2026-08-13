@@ -9,7 +9,7 @@
         "location": "mos:mobs/drowned",
         "locations": {
           "1.21-1.21.4": "mos:mobs/1.21/drowned",
-          "1.21.5-26.1.2": "mos:mobs/drowned"
+          "1.21.5-26.2": "mos:mobs/drowned"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -22,7 +22,7 @@
         "location": "mos:mobs/drowned_trident",
         "locations": {
           "1.21-1.21.4": "mos:mobs/1.21/drowned_trident",
-          "1.21.5-26.1.2": "mos:mobs/drowned_trident"
+          "1.21.5-26.2": "mos:mobs/drowned_trident"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

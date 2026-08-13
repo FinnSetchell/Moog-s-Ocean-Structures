@@ -9,7 +9,7 @@
         "location": "mos:oak_long_ship/right_sail",
         "locations": {
           "1.21-1.21.8": "mos:1.21/oak_long_ship/right_sail",
-          "1.21.9-26.1.2": "mos:oak_long_ship/right_sail"
+          "1.21.9-26.2": "mos:oak_long_ship/right_sail"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
