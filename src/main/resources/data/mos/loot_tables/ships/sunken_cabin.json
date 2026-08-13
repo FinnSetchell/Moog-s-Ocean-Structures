@@ -8,25 +8,25 @@
           "type": "minecraft:item",
           "name": "minecraft:iron_chestplate",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_with_levels", "levels": { "min": 18, "max": 25 } }]
+          "functions": [{ "function": "minecraft:enchant_with_levels", "treasure": true, "levels": { "min": 18, "max": 25 } }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:iron_sword",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_with_levels", "levels": { "min": 18, "max": 25 } }]
+          "functions": [{ "function": "minecraft:enchant_with_levels", "treasure": true, "levels": { "min": 18, "max": 25 } }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond_boots",
           "weight": 4,
-          "functions": [{ "function": "minecraft:enchant_with_levels", "levels": { "min": 18, "max": 25 } }]
+          "functions": [{ "function": "minecraft:enchant_with_levels", "treasure": true, "levels": { "min": 18, "max": 25 } }]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:crossbow",
           "weight": 8,
-          "functions": [{ "function": "minecraft:enchant_with_levels", "levels": { "min": 15, "max": 22 } }]
+          "functions": [{ "function": "minecraft:enchant_with_levels", "treasure": true, "levels": { "min": 15, "max": 22 } }]
         },
         {
           "type": "minecraft:empty",

@@ -7,7 +7,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:heart_of_the_sea",
-          "weight": 6
+          "weight": 1
         },
         {
           "type": "minecraft:item",
@@ -16,9 +16,9 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:enchanted_book",
+          "name": "minecraft:book",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_with_levels", "levels": { "min": 20, "max": 30 } }]
+          "functions": [{ "function": "minecraft:enchant_with_levels", "treasure": true, "levels": { "min": 20, "max": 30 } }]
         }
       ]
     },
@@ -29,7 +29,7 @@
           "type": "minecraft:item",
           "name": "minecraft:golden_helmet",
           "weight": 8,
-          "functions": [{ "function": "minecraft:enchant_with_levels", "levels": { "min": 18, "max": 25 } }]
+          "functions": [{ "function": "minecraft:enchant_with_levels", "treasure": true, "levels": { "min": 18, "max": 25 } }]
         },
         {
           "type": "minecraft:item",
