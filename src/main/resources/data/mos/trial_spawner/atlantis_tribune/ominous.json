@@ -31,14 +31,6 @@
           ]
         }
       }
-    },
-    {
-      "weight": 1,
-      "data": {
-        "entity": {
-          "id": "minecraft:elder_guardian"
-        }
-      }
     }
   ],
   "loot_tables_to_eject": [
