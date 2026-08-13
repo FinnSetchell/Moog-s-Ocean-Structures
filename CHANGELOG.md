@@ -1,7 +1,19 @@
-## [1.0.1] - 2026-08-11
+## [1.0.1] - 2026-08-13
+
+### Added
+
+- Support for Minecraft 26.2.
+- Loot for the remaining empty chests, trapped chests and dispensers across `mos:long_ship`, `mos:atlantis_tribune`, `mos:small_ocean_temple`, `mos:dragon_skeleton`, `mos:ocean_decor`, `mos:ruined_house`, `mos:underwater_shrine` and `mos:prismarine_dog_statue`.
+- New loot tables `mos:temple/temple_offering`, `mos:temple/temple_inner` and `mos:traps/dispenser_trap`.
+- Brewing stands aboard the long ships now come stocked with brewing supplies.
+- A single elder guardian now guards the centre of `mos:atlantis_tribune`.
 
 ### Changed
 
+- Enchanted books in loot are now enchanted properly, and are enchanted to a level that matches the chest they came from.
+- `mos:atlantis_tribune` spawners now spawn guardians and drowned instead of elder guardians.
+- Hearts of the sea are much rarer outside buried treasure, and captain chests no longer always hold diamond armour.
+- The `mos:pufferfish_dome` dispenser now holds a pufferfish bucket.
 - `mos:nether_portal_archway` block palette tidied up: the green wool and green concrete powder have been switched out with natural blocks.
 
 ## [1.0.0] - 2026-08-09
