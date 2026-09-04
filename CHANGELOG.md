@@ -1,3 +1,21 @@
+## [1.1.0] - 2026-09-02
+
+### Added
+
+- Preview buttons for every structure in the Moog's Structure Library config screen.
+
+### Changed
+
+- The unfinished docked spruce ship no longer generates. It was a work in progress that shipped by mistake.
+- Only one acacia long ship generates now. The second was an unfinished build template and has been removed; acacia still turns up as often as the other woods.
+- Every structure has been rebuilt for each Minecraft version it supports, fixing a range of small visual and loading problems.
+
+### Fixed
+
+- The pack now loads cleanly on Minecraft 1.21.11 and newer.
+- The ship captain's bonus health and armour now apply on Minecraft 1.21.2 to 1.21.4.
+- The wandering trader moves at its intended speed on Minecraft 1.21.2 to 1.21.4.
+
 ## [1.0.1] - 2026-08-13
 
 ### Added
