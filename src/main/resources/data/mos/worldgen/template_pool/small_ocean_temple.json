@@ -6,10 +6,12 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:small_ocean_temple",
+        "location": "mos:1_21_9/small_ocean_temple",
         "locations": {
-          "1.21-1.21.8": "mos:1.21/small_ocean_temple",
-          "1.21.9-26.2": "mos:small_ocean_temple"
+          "1.21-1.21.1": "mos:1_21_0/small_ocean_temple",
+          "1.21.2-1.21.4": "mos:1_21_2/small_ocean_temple",
+          "1.21.5-1.21.8": "mos:1_21_5/small_ocean_temple",
+          "1.21.9-26.2": "mos:1_21_9/small_ocean_temple"
         },
         "projection": "rigid",
         "processors": "mos:small_ocean_temple_mobs"

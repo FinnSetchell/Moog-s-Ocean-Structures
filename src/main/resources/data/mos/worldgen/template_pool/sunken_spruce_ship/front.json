@@ -2,6 +2,18 @@
   "name": "mos:sunken_spruce_ship/front",
   "fallback": "minecraft:empty",
   "elements": [
-    {"weight": 1, "element": {"element_type": "moogs_structures:versioned_single_pool_element", "location": "mos:sunken_spruce_ship/front", "locations": {"1.21-1.21.8": "mos:1.21/sunken_spruce_ship/front", "1.21.9-26.2": "mos:sunken_spruce_ship/front"}, "projection": "rigid", "processors": "minecraft:empty"}}
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:1_21_9/sunken_spruce_ship/front",
+        "locations": {
+          "1.21-1.21.8": "mos:1_21_0/sunken_spruce_ship/front",
+          "1.21.9-26.2": "mos:1_21_9/sunken_spruce_ship/front"
+        },
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
   ]
 }

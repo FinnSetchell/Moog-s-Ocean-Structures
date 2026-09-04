@@ -6,9 +6,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:magma_block_ravine",
+        "location": "mos:1_21_0/magma_block_ravine",
         "locations": {
-          "1.21-26.2": "mos:magma_block_ravine"
+          "1.21-26.2": "mos:1_21_0/magma_block_ravine"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

@@ -6,9 +6,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:wanderer_raft_oak",
+        "location": "mos:1_21_0/wanderer_raft_oak",
         "locations": {
-          "1.21-26.2": "mos:wanderer_raft_oak"
+          "1.21-26.2": "mos:1_21_0/wanderer_raft_oak"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -18,9 +18,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:wanderer_raft_spruce",
+        "location": "mos:1_21_0/wanderer_raft_spruce",
         "locations": {
-          "1.21-26.2": "mos:wanderer_raft_spruce"
+          "1.21-26.2": "mos:1_21_0/wanderer_raft_spruce"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -30,9 +30,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:wanderer_raft_birch",
+        "location": "mos:1_21_0/wanderer_raft_birch",
         "locations": {
-          "1.21-26.2": "mos:wanderer_raft_birch"
+          "1.21-26.2": "mos:1_21_0/wanderer_raft_birch"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -42,9 +42,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:wanderer_raft_jungle",
+        "location": "mos:1_21_0/wanderer_raft_jungle",
         "locations": {
-          "1.21-26.2": "mos:wanderer_raft_jungle"
+          "1.21-26.2": "mos:1_21_0/wanderer_raft_jungle"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -54,9 +54,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:wanderer_raft_acacia",
+        "location": "mos:1_21_0/wanderer_raft_acacia",
         "locations": {
-          "1.21-26.2": "mos:wanderer_raft_acacia"
+          "1.21-26.2": "mos:1_21_0/wanderer_raft_acacia"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -66,9 +66,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:wanderer_raft_dark_oak",
+        "location": "mos:1_21_0/wanderer_raft_dark_oak",
         "locations": {
-          "1.21-26.2": "mos:wanderer_raft_dark_oak"
+          "1.21-26.2": "mos:1_21_0/wanderer_raft_dark_oak"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -78,9 +78,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:wanderer_raft_cherry",
+        "location": "mos:1_21_0/wanderer_raft_cherry",
         "locations": {
-          "1.21-26.2": "mos:wanderer_raft_cherry"
+          "1.21-26.2": "mos:1_21_0/wanderer_raft_cherry"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -90,9 +90,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:wanderer_raft_mangrove",
+        "location": "mos:1_21_0/wanderer_raft_mangrove",
         "locations": {
-          "1.21-26.2": "mos:wanderer_raft_mangrove"
+          "1.21-26.2": "mos:1_21_0/wanderer_raft_mangrove"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -102,9 +102,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:wanderer_raft_snow",
+        "location": "mos:1_21_0/wanderer_raft_snow",
         "locations": {
-          "1.21-26.2": "mos:wanderer_raft_snow"
+          "1.21-26.2": "mos:1_21_0/wanderer_raft_snow"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -114,10 +114,10 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:wanderer_raft_oak",
+        "location": "mos:1_21_2/wanderer_raft_pale_forest",
         "locations": {
-          "1.21-1.21.1": "mos:wanderer_raft_oak",
-          "1.21.2-26.2": "mos:wanderer_raft_pale_forest"
+          "1.21-1.21.1": "mos:1_21_0/wanderer_raft_pale_forest",
+          "1.21.2-26.2": "mos:1_21_2/wanderer_raft_pale_forest"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

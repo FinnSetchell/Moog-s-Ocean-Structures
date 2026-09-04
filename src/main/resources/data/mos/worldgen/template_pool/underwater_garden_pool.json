@@ -6,9 +6,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:underwater_garden",
+        "location": "mos:1_21_0/underwater_garden",
         "locations": {
-          "1.21-26.2": "mos:underwater_garden"
+          "1.21-26.2": "mos:1_21_0/underwater_garden"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

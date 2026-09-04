@@ -6,10 +6,11 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:underwater_shrine",
+        "location": "mos:1_21_5/underwater_shrine",
         "locations": {
-          "1.21-1.21.1": "mos:1.21/underwater_shrine",
-          "1.21.2-26.2": "mos:underwater_shrine"
+          "1.21-1.21.1": "mos:1_21_0/underwater_shrine",
+          "1.21.2-1.21.4": "mos:1_21_2/underwater_shrine",
+          "1.21.5-26.2": "mos:1_21_5/underwater_shrine"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

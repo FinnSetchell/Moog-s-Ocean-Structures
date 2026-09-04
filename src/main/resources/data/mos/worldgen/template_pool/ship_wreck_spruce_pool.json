@@ -6,9 +6,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:ship_wreck_spruce",
+        "location": "mos:1_21_0/ship_wreck_spruce",
         "locations": {
-          "1.21-26.2": "mos:ship_wreck_spruce"
+          "1.21-26.2": "mos:1_21_0/ship_wreck_spruce"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

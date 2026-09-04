@@ -6,9 +6,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:conduit_arch",
+        "location": "mos:1_21_0/conduit_arch",
         "locations": {
-          "1.21-26.2": "mos:conduit_arch"
+          "1.21-26.2": "mos:1_21_0/conduit_arch"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

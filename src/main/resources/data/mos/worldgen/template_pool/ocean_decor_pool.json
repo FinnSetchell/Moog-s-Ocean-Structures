@@ -6,9 +6,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:pufferfish_dome",
+        "location": "mos:1_21_0/pufferfish_dome",
         "locations": {
-          "1.21-26.2": "mos:pufferfish_dome"
+          "1.21-26.2": "mos:1_21_0/pufferfish_dome"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -18,9 +18,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:clam_shell",
+        "location": "mos:1_21_0/clam_shell",
         "locations": {
-          "1.21-26.2": "mos:clam_shell"
+          "1.21-26.2": "mos:1_21_0/clam_shell"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -30,9 +30,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:chest_stone",
+        "location": "mos:1_21_0/chest_stone",
         "locations": {
-          "1.21-26.2": "mos:chest_stone"
+          "1.21-26.2": "mos:1_21_0/chest_stone"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -42,9 +42,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:ruined_wall_1",
+        "location": "mos:1_21_0/ruined_wall_1",
         "locations": {
-          "1.21-26.2": "mos:ruined_wall_1"
+          "1.21-26.2": "mos:1_21_0/ruined_wall_1"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -54,9 +54,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:axolotl",
+        "location": "mos:1_21_0/axolotl",
         "locations": {
-          "1.21-26.2": "mos:axolotl"
+          "1.21-26.2": "mos:1_21_0/axolotl"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

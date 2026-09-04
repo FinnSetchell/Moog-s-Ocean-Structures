@@ -6,9 +6,9 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:sea_dragon_skeleton",
+        "location": "mos:1_21_0/sea_dragon_skeleton",
         "locations": {
-          "1.21-26.2": "mos:sea_dragon_skeleton"
+          "1.21-26.2": "mos:1_21_0/sea_dragon_skeleton"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
