@@ -1,3 +1,20 @@
+## [1.1.0] - 2026-09-02
+
+### Added
+
+- Preview buttons for every structure in the Moog's Structure Library config screen.
+
+### Fixed
+
+- The small ocean temple's dry lower section no longer floods with water.
+
+### Changed
+
+- The unfinished docked spruce ship no longer generates. It was a work in progress that shipped by mistake.
+- Only one acacia long ship generates now. The second was an unfinished build template and has been removed; acacia still turns up as often as the other woods.
+- Wandering trader rafts no longer favour oak. Oak was turning up twice as often as every other wood; all nine now appear equally.
+- Every structure has been rebuilt for each Minecraft version it supports, fixing a range of small visual and loading problems.
+
 ## [1.0.0] - 2026-08-09
 
 ### Added
