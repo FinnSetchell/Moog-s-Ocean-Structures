@@ -6,39 +6,38 @@
       "weight": 5,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:mobs/pillager",
+        "location": "mos:1_21_5/mobs/pillager",
         "locations": {
-          "1.21-1.21.4": "mos:mobs/1.21/pillager",
-          "1.21.5-26.2": "mos:mobs/pillager"
+          "1.21-1.21.4": "mos:1_21_0/mobs/pillager",
+          "1.21.5-26.2": "mos:1_21_5/mobs/pillager"
         },
-        "projection": "rigid",
-        "processors": "minecraft:empty"
+        "processors": "minecraft:empty",
+        "projection": "rigid"
       }
     },
     {
       "weight": 3,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:mobs/vindicator",
+        "location": "mos:1_21_5/mobs/vindicator",
         "locations": {
-          "1.21-1.21.4": "mos:mobs/1.21/vindicator",
-          "1.21.5-26.2": "mos:mobs/vindicator"
+          "1.21-1.21.4": "mos:1_21_0/mobs/vindicator",
+          "1.21.5-26.2": "mos:1_21_5/mobs/vindicator"
         },
-        "projection": "rigid",
-        "processors": "minecraft:empty"
+        "processors": "minecraft:empty",
+        "projection": "rigid"
       }
     },
     {
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:mobs/evoker",
+        "location": "mos:1_21_0/mobs/evoker",
         "locations": {
-          "1.21-1.21.4": "mos:mobs/1.21/evoker",
-          "1.21.5-26.2": "mos:mobs/evoker"
+          "1.21-26.2": "mos:1_21_0/mobs/evoker"
         },
-        "projection": "rigid",
-        "processors": "minecraft:empty"
+        "processors": "minecraft:empty",
+        "projection": "rigid"
       }
     }
   ]

@@ -6,12 +6,12 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:mobs/elder_guardian",
+        "location": "mos:1_21_0/mobs/elder_guardian",
         "locations": {
-          "1.21-26.2": "mos:mobs/elder_guardian"
+          "1.21-26.2": "mos:1_21_0/mobs/elder_guardian"
         },
-        "projection": "rigid",
-        "processors": "minecraft:empty"
+        "processors": "minecraft:empty",
+        "projection": "rigid"
       }
     }
   ]
