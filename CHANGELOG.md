@@ -12,6 +12,7 @@
 
 ### Fixed
 
+- Barrels aboard the long ships, wanderer rafts, wrecks and the small ocean temple now hold loot instead of being empty.
 - The pack now loads cleanly on Minecraft 1.21.11 and newer.
 - The ship captain's bonus health and armour now apply on Minecraft 1.21.2 to 1.21.4.
 - The wandering trader moves at its intended speed on Minecraft 1.21.2 to 1.21.4.
