@@ -6,9 +6,11 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:nether_portal_archway/abovewater_bottom",
+        "location": "mos:1_20_5/nether_portal_archway/abovewater_bottom",
         "locations": {
-          "1.20-1.20.6": "mos:nether_portal_archway/abovewater_bottom"
+          "1.20-1.20.2": "mos:1_20_0/nether_portal_archway/abovewater_bottom",
+          "1.20.3-1.20.4": "mos:1_20_3/nether_portal_archway/abovewater_bottom",
+          "1.20.5-1.20.6": "mos:1_20_5/nether_portal_archway/abovewater_bottom"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

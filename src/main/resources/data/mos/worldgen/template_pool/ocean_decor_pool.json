@@ -6,9 +6,10 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:pufferfish_dome",
+        "location": "mos:1_20_5/pufferfish_dome",
         "locations": {
-          "1.20-1.20.6": "mos:pufferfish_dome"
+          "1.20-1.20.4": "mos:1_20_0/pufferfish_dome",
+          "1.20.5-1.20.6": "mos:1_20_5/pufferfish_dome"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -18,9 +19,10 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:clam_shell",
+        "location": "mos:1_20_5/clam_shell",
         "locations": {
-          "1.20-1.20.6": "mos:clam_shell"
+          "1.20-1.20.4": "mos:1_20_0/clam_shell",
+          "1.20.5-1.20.6": "mos:1_20_5/clam_shell"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -30,9 +32,10 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:chest_stone",
+        "location": "mos:1_20_5/chest_stone",
         "locations": {
-          "1.20-1.20.6": "mos:chest_stone"
+          "1.20-1.20.4": "mos:1_20_0/chest_stone",
+          "1.20.5-1.20.6": "mos:1_20_5/chest_stone"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -42,9 +45,10 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:ruined_wall_1",
+        "location": "mos:1_20_5/ruined_wall_1",
         "locations": {
-          "1.20-1.20.6": "mos:ruined_wall_1"
+          "1.20-1.20.4": "mos:1_20_0/ruined_wall_1",
+          "1.20.5-1.20.6": "mos:1_20_5/ruined_wall_1"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -54,9 +58,10 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:axolotl",
+        "location": "mos:1_20_5/axolotl",
         "locations": {
-          "1.20-1.20.6": "mos:axolotl"
+          "1.20-1.20.4": "mos:1_20_0/axolotl",
+          "1.20.5-1.20.6": "mos:1_20_5/axolotl"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

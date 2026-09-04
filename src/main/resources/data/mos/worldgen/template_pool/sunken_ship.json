@@ -6,9 +6,10 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:sunken_spruce_ship/rear",
+        "location": "mos:1_20_5/sunken_spruce_ship/rear",
         "locations": {
-          "1.20-1.20.6": "mos:sunken_spruce_ship/rear"
+          "1.20-1.20.4": "mos:1_20_0/sunken_spruce_ship/rear",
+          "1.20.5-1.20.6": "mos:1_20_5/sunken_spruce_ship/rear"
         },
         "projection": "rigid",
         "processors": "mos:sunken_ship_mobs"
@@ -18,9 +19,10 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:sunken_birch_ship/rear",
+        "location": "mos:1_20_5/sunken_birch_ship/rear",
         "locations": {
-          "1.20-1.20.6": "mos:sunken_birch_ship/rear"
+          "1.20-1.20.4": "mos:1_20_0/sunken_birch_ship/rear",
+          "1.20.5-1.20.6": "mos:1_20_5/sunken_birch_ship/rear"
         },
         "projection": "rigid",
         "processors": "mos:sunken_ship_mobs"

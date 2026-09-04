@@ -6,9 +6,10 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:atlantis_tribune/wing_b",
+        "location": "mos:1_20_5/atlantis_tribune/wing_b",
         "locations": {
-          "1.20-1.20.6": "mos:atlantis_tribune/wing_b"
+          "1.20-1.20.4": "mos:1_20_0/atlantis_tribune/wing_b",
+          "1.20.5-1.20.6": "mos:1_20_5/atlantis_tribune/wing_b"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

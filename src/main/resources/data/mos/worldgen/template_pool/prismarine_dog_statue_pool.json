@@ -6,9 +6,10 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:prismarine_dog_statue",
+        "location": "mos:1_20_5/prismarine_dog_statue",
         "locations": {
-          "1.20-1.20.6": "mos:prismarine_dog_statue"
+          "1.20-1.20.4": "mos:1_20_0/prismarine_dog_statue",
+          "1.20.5-1.20.6": "mos:1_20_5/prismarine_dog_statue"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

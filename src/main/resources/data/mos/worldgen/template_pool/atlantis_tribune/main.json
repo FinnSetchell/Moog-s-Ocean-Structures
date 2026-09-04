@@ -6,9 +6,11 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:atlantis_tribune/main",
+        "location": "mos:1_20_5/atlantis_tribune/main",
         "locations": {
-          "1.20-1.20.6": "mos:atlantis_tribune/main"
+          "1.20-1.20.2": "mos:1_20_0/atlantis_tribune/main",
+          "1.20.3-1.20.4": "mos:1_20_3/atlantis_tribune/main",
+          "1.20.5-1.20.6": "mos:1_20_5/atlantis_tribune/main"
         },
         "projection": "rigid",
         "processors": "mos:atlantis_tribune_mobs"
