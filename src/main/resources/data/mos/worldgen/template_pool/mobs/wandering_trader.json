@@ -6,12 +6,13 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:mobs/wandering_trader",
+        "location": "mos:1_20_5/mobs/wandering_trader",
         "locations": {
-          "1.20-1.20.6": "mos:mobs/wandering_trader"
+          "1.20-1.20.4": "mos:1_20_0/mobs/wandering_trader",
+          "1.20.5-1.20.6": "mos:1_20_5/mobs/wandering_trader"
         },
-        "projection": "rigid",
-        "processors": "minecraft:empty"
+        "processors": "minecraft:empty",
+        "projection": "rigid"
       }
     }
   ]

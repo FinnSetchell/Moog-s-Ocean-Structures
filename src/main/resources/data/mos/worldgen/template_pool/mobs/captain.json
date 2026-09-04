@@ -6,12 +6,14 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:mobs/captain",
+        "location": "mos:1_20_5/mobs/captain",
         "locations": {
-          "1.20-1.20.6": "mos:mobs/captain"
+          "1.20-1.20.1": "mos:1_20_0/mobs/captain",
+          "1.20.2-1.20.4": "mos:1_20_2/mobs/captain",
+          "1.20.5-1.20.6": "mos:1_20_5/mobs/captain"
         },
-        "projection": "rigid",
-        "processors": "minecraft:empty"
+        "processors": "minecraft:empty",
+        "projection": "rigid"
       }
     }
   ]
