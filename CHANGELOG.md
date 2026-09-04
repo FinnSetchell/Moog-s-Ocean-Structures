@@ -6,6 +6,7 @@
 
 ### Fixed
 
+- Barrels aboard the long ships, wanderer rafts, wrecks and the small ocean temple now hold loot instead of being empty.
 - The small ocean temple's dry lower section no longer floods with water.
 
 ### Changed
