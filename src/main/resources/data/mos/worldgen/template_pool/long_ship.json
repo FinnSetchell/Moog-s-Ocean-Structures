@@ -10,7 +10,7 @@
         "locations": {
           "1.21-1.21.1": "mos:1_21_0/acacia_long_ship/hull",
           "1.21.2-1.21.8": "mos:1_21_2/acacia_long_ship/hull",
-          "1.21.9-26.2": "mos:1_21_9/acacia_long_ship/hull"
+          "1.21.9-26.3": "mos:1_21_9/acacia_long_ship/hull"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -24,7 +24,7 @@
         "locations": {
           "1.21-1.21.1": "mos:1_21_0/dark_oak_long_ship/hull",
           "1.21.2-1.21.8": "mos:1_21_2/dark_oak_long_ship/hull",
-          "1.21.9-26.2": "mos:1_21_9/dark_oak_long_ship/hull"
+          "1.21.9-26.3": "mos:1_21_9/dark_oak_long_ship/hull"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -38,7 +38,7 @@
         "locations": {
           "1.21-1.21.1": "mos:1_21_0/oak_long_ship/hull",
           "1.21.2-1.21.8": "mos:1_21_2/oak_long_ship/hull",
-          "1.21.9-26.2": "mos:1_21_9/oak_long_ship/hull"
+          "1.21.9-26.3": "mos:1_21_9/oak_long_ship/hull"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -53,7 +53,7 @@
           "1.21-1.21.1": "mos:1_21_0/cherry_long_ship/hull",
           "1.21.2-1.21.4": "mos:1_21_2/cherry_long_ship/hull",
           "1.21.5-1.21.8": "mos:1_21_5/cherry_long_ship/hull",
-          "1.21.9-26.2": "mos:1_21_9/cherry_long_ship/hull"
+          "1.21.9-26.3": "mos:1_21_9/cherry_long_ship/hull"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

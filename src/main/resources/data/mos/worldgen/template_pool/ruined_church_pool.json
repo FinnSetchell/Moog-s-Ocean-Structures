@@ -9,7 +9,7 @@
         "location": "mos:1_21_9/ruined_church",
         "locations": {
           "1.21-1.21.8": "mos:1_21_0/ruined_church",
-          "1.21.9-26.2": "mos:1_21_9/ruined_church"
+          "1.21.9-26.3": "mos:1_21_9/ruined_church"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

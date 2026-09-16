@@ -8,7 +8,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/mobs/drowned",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/mobs/drowned"
+          "1.21-26.3": "mos:1_21_0/mobs/drowned"
         },
         "processors": "minecraft:empty",
         "projection": "rigid"
@@ -21,7 +21,7 @@
         "location": "mos:1_21_5/mobs/drowned_trident",
         "locations": {
           "1.21-1.21.4": "mos:1_21_0/mobs/drowned_trident",
-          "1.21.5-26.2": "mos:1_21_5/mobs/drowned_trident"
+          "1.21.5-26.3": "mos:1_21_5/mobs/drowned_trident"
         },
         "processors": "minecraft:empty",
         "projection": "rigid"

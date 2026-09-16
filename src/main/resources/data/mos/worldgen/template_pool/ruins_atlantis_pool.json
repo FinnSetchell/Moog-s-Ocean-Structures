@@ -8,7 +8,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_1",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_1"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_1"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -20,7 +20,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_2",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_2"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_2"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -32,7 +32,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_3",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_3"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_3"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -44,7 +44,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_4",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_4"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_4"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -56,7 +56,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_5",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_5"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_5"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -68,7 +68,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_6",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_6"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_6"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -80,7 +80,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_7",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_7"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_7"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -92,7 +92,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_8",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_8"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_8"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -104,7 +104,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_9",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_9"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_9"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -116,7 +116,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_10",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_10"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_10"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -128,7 +128,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_11",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_11"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_11"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -140,7 +140,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_12",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_12"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_12"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -152,7 +152,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_13",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_13"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_13"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -164,7 +164,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_14",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_14"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_14"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -176,7 +176,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_15",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_15"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_15"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -188,7 +188,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_16",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_16"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_16"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -200,7 +200,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_17",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_17"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_17"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -212,7 +212,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_18",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_18"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_18"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -224,7 +224,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_19",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_19"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_19"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -236,7 +236,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_20",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_20"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_20"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -248,7 +248,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_21",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_21"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_21"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -260,7 +260,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_22",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_22"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_22"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -272,7 +272,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_23",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_23"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_23"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -284,7 +284,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_24",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_24"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_24"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -296,7 +296,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_25",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_25"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_25"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -308,7 +308,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_26",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_26"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_26"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -320,7 +320,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_27",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_27"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_27"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
@@ -332,7 +332,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/ruins_atlantis_28",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/ruins_atlantis_28"
+          "1.21-26.3": "mos:1_21_0/ruins_atlantis_28"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"

@@ -8,7 +8,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/mobs/elder_guardian",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/mobs/elder_guardian"
+          "1.21-26.3": "mos:1_21_0/mobs/elder_guardian"
         },
         "processors": "minecraft:empty",
         "projection": "rigid"

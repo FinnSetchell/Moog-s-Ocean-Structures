@@ -8,7 +8,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/mobs/axolotl_lucy",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/mobs/axolotl_lucy"
+          "1.21-26.3": "mos:1_21_0/mobs/axolotl_lucy"
         },
         "processors": "minecraft:empty",
         "projection": "rigid"
@@ -20,7 +20,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/mobs/axolotl_wild",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/mobs/axolotl_wild"
+          "1.21-26.3": "mos:1_21_0/mobs/axolotl_wild"
         },
         "processors": "minecraft:empty",
         "projection": "rigid"
@@ -32,7 +32,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/mobs/axolotl_gold",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/mobs/axolotl_gold"
+          "1.21-26.3": "mos:1_21_0/mobs/axolotl_gold"
         },
         "processors": "minecraft:empty",
         "projection": "rigid"
@@ -44,7 +44,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/mobs/axolotl_cyan",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/mobs/axolotl_cyan"
+          "1.21-26.3": "mos:1_21_0/mobs/axolotl_cyan"
         },
         "processors": "minecraft:empty",
         "projection": "rigid"
@@ -56,7 +56,7 @@
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mos:1_21_0/mobs/axolotl_blue",
         "locations": {
-          "1.21-26.2": "mos:1_21_0/mobs/axolotl_blue"
+          "1.21-26.3": "mos:1_21_0/mobs/axolotl_blue"
         },
         "processors": "minecraft:empty",
         "projection": "rigid"

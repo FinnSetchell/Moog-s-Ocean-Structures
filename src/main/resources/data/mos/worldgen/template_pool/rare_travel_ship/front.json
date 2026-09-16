@@ -10,7 +10,7 @@
         "locations": {
           "1.21-1.21.4": "mos:1_21_0/rare_travel_ship/front",
           "1.21.5-1.21.8": "mos:1_21_5/rare_travel_ship/front",
-          "1.21.9-26.2": "mos:1_21_9/rare_travel_ship/front"
+          "1.21.9-26.3": "mos:1_21_9/rare_travel_ship/front"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
