@@ -2,7 +2,7 @@
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8LKA5N)
 
-[![Discord](https://img.shields.io/discord/869218732650688543?color=c3bf46&label=DISCORD&style=for-the-badge)](https://discord.com/invite/S5nffJbuvA)
+[![Discord](https://img.shields.io/discord/869218732650688543?color=c3bf46&label=DISCORD&style=for-the-badge)](https://moogsmods.com/discord?r=readme-mos)
 
 [![My projects](https://img.shields.io/badge/CurseForge-projects-c3bf46?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/members/finndog_123/projects)
 
@@ -44,6 +44,6 @@ See all modpacks using this mod [here](https://www.modpackindex.com/modpack/find
 
 ![Discord Banner](https://pub-24a4e0e7ea8544a5b6f73c3a23512589.r2.dev/images/8bdc1802561e4917a5c3192e74baa218.png)
 
-The best and fastest way to get replies is to join our [Discord server](https://discord.gg/S5nffJbuvA).
+The best and fastest way to get replies is to join our [Discord server](https://moogsmods.com/discord?r=readme-mos).
 
 [![BHsponsor](https://pub-24a4e0e7ea8544a5b6f73c3a23512589.r2.dev/images/50c831008ba04c16afe15ec664ff180d.png)](https://bisecthosting.com/moogsmods?r=mrmos)
