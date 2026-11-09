@@ -1,3 +1,11 @@
+## [1.1.2]
+
+### Fixed
+- Treasure maps found aboard ships and wrecks now lead to buried treasure instead of being blank
+
+### Changed
+- Now requires Moog's Structure Lib 3.0.0 or newer
+
 ## [1.1.0] - 2026-09-02
 
 ### Added
