@@ -8,25 +8,29 @@
           "type": "minecraft:item",
           "name": "minecraft:bone",
           "weight": 22,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 3, "max": 8 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 3, "max": 8 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 3, "max": 8}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:bone_meal",
           "weight": 14,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 6}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:gold_nugget",
           "weight": 14,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 3, "max": 9 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 3, "max": 9 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 3, "max": 9}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:prismarine_shard",
           "weight": 10,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 4 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 4 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 1, "max": 4}}
         },
         {
           "type": "minecraft:empty",
@@ -43,7 +47,14 @@
           "weight": 6,
           "functions": [
             { "function": "minecraft:set_damage", "damage": { "min": 0.3, "max": 0.75 } }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:set_damage",
+            "damage": {
+              "min": 0.3,
+              "max": 0.75
+            }
+          }
         },
         {
           "type": "minecraft:item",
@@ -51,7 +62,14 @@
           "weight": 8,
           "functions": [
             { "function": "minecraft:set_damage", "damage": { "min": 0.4, "max": 0.85 } }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:set_damage",
+            "damage": {
+              "min": 0.4,
+              "max": 0.85
+            }
+          }
         },
         {
           "type": "minecraft:item",
@@ -59,7 +77,14 @@
           "weight": 5,
           "functions": [
             { "function": "minecraft:set_damage", "damage": { "min": 0.3, "max": 0.8 } }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:set_damage",
+            "damage": {
+              "min": 0.3,
+              "max": 0.8
+            }
+          }
         },
         {
           "type": "minecraft:item",
@@ -67,7 +92,14 @@
           "weight": 5,
           "functions": [
             { "function": "minecraft:set_damage", "damage": { "min": 0.35, "max": 0.8 } }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:set_damage",
+            "damage": {
+              "min": 0.35,
+              "max": 0.8
+            }
+          }
         },
         {
           "type": "minecraft:empty",

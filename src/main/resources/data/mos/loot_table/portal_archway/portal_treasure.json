@@ -8,25 +8,29 @@
           "type": "minecraft:item",
           "name": "minecraft:golden_helmet",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }],
+          "modifier": {"type": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot"}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_chestplate",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }],
+          "modifier": {"type": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot"}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_leggings",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }],
+          "modifier": {"type": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot"}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_boots",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }],
+          "modifier": {"type": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot"}
         }
       ]
     },
@@ -42,13 +46,15 @@
           "type": "minecraft:item",
           "name": "minecraft:gold_block",
           "weight": 6,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 2 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 2 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 1, "max": 2}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:gold_ingot",
           "weight": 15,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 5}}
         },
         {
           "type": "minecraft:empty",
@@ -63,7 +69,8 @@
           "type": "minecraft:item",
           "name": "minecraft:obsidian",
           "weight": 15,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 5}}
         },
         {
           "type": "minecraft:item",

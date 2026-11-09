@@ -18,7 +18,8 @@
           "type": "minecraft:item",
           "name": "minecraft:book",
           "weight": 10,
-          "functions": [{ "function": "minecraft:enchant_with_levels", "options": "#minecraft:on_random_loot", "levels": { "min": 20, "max": 30 } }]
+          "functions": [{ "function": "minecraft:enchant_with_levels", "options": "#minecraft:on_random_loot", "levels": { "min": 20, "max": 30 } }],
+          "modifier": {"type": "minecraft:enchant_with_levels", "options": "#minecraft:on_random_loot", "levels": {"min": 20, "max": 30}}
         }
       ]
     },
@@ -29,19 +30,22 @@
           "type": "minecraft:item",
           "name": "minecraft:golden_helmet",
           "weight": 8,
-          "functions": [{ "function": "minecraft:enchant_with_levels", "options": "#minecraft:on_random_loot", "levels": { "min": 18, "max": 25 } }]
+          "functions": [{ "function": "minecraft:enchant_with_levels", "options": "#minecraft:on_random_loot", "levels": { "min": 18, "max": 25 } }],
+          "modifier": {"type": "minecraft:enchant_with_levels", "options": "#minecraft:on_random_loot", "levels": {"min": 18, "max": 25}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:gold_block",
           "weight": 8,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 2 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 2 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 1, "max": 2}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:emerald",
           "weight": 15,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 6}}
         },
         {
           "type": "minecraft:empty",
@@ -56,13 +60,15 @@
           "type": "minecraft:item",
           "name": "minecraft:glowstone_dust",
           "weight": 12,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 5}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:nautilus_shell",
           "weight": 10,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 2 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 2 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 1, "max": 2}}
         },
         {
           "type": "minecraft:empty",

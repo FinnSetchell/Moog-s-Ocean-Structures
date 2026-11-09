@@ -16,7 +16,14 @@
               "zoom": 1,
               "skip_existing_chunks": false
             }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:exploration_map",
+            "destination": "#minecraft:on_treasure_maps",
+            "decoration": "red_x",
+            "zoom": 1,
+            "skip_existing_chunks": false
+          }
         }
       ]
     },
@@ -27,19 +34,22 @@
           "type": "minecraft:item",
           "name": "minecraft:iron_ingot",
           "weight": 22,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 5}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:dark_oak_planks",
           "weight": 15,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 4, "max": 10 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 4, "max": 10 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 4, "max": 10}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:copper_ingot",
           "weight": 12,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 4 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 4 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 4}}
         },
         {
           "type": "minecraft:empty",
@@ -54,7 +64,8 @@
           "type": "minecraft:item",
           "name": "minecraft:iron_helmet",
           "weight": 8,
-          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }],
+          "modifier": {"type": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot"}
         },
         {
           "type": "minecraft:item",

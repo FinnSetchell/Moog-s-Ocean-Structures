@@ -8,37 +8,43 @@
           "type": "minecraft:item",
           "name": "minecraft:cooked_beef",
           "weight": 18,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 5}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:cooked_chicken",
           "weight": 18,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 5}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:bread",
           "weight": 15,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 6}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:baked_potato",
           "weight": 12,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 6}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:carrot",
           "weight": 12,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 5}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:apple",
           "weight": 10,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 3 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 3 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 1, "max": 3}}
         }
       ]
     },
@@ -49,13 +55,15 @@
           "type": "minecraft:item",
           "name": "minecraft:torch",
           "weight": 15,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 4, "max": 10 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 4, "max": 10 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 4, "max": 10}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:oak_sapling",
           "weight": 8,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 3 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 3 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 1, "max": 3}}
         },
         {
           "type": "minecraft:item",

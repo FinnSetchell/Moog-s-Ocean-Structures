@@ -17,7 +17,15 @@
                 "max": 25
               }
             }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:enchant_with_levels",
+            "options": "#minecraft:on_random_loot",
+            "levels": {
+              "min": 18,
+              "max": 25
+            }
+          }
         },
         {
           "type": "minecraft:item",
@@ -32,7 +40,15 @@
                 "max": 25
               }
             }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:enchant_with_levels",
+            "options": "#minecraft:on_random_loot",
+            "levels": {
+              "min": 18,
+              "max": 25
+            }
+          }
         },
         {
           "type": "minecraft:item",
@@ -47,7 +63,15 @@
                 "max": 22
               }
             }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:enchant_with_levels",
+            "options": "#minecraft:on_random_loot",
+            "levels": {
+              "min": 15,
+              "max": 22
+            }
+          }
         },
         {
           "type": "minecraft:item",
@@ -62,7 +86,15 @@
                 "max": 28
               }
             }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:enchant_with_levels",
+            "options": "#minecraft:on_random_loot",
+            "levels": {
+              "min": 18,
+              "max": 28
+            }
+          }
         },
         {
           "type": "minecraft:empty",
@@ -88,7 +120,14 @@
                 "max": 6
               }
             }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:set_count",
+            "count": {
+              "min": 2,
+              "max": 6
+            }
+          }
         },
         {
           "type": "minecraft:item",
@@ -102,7 +141,14 @@
                 "max": 5
               }
             }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:set_count",
+            "count": {
+              "min": 2,
+              "max": 5
+            }
+          }
         },
         {
           "type": "minecraft:item",
@@ -140,7 +186,14 @@
               "zoom": 1,
               "skip_existing_chunks": false
             }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:exploration_map",
+            "destination": "#minecraft:on_treasure_maps",
+            "decoration": "red_x",
+            "zoom": 1,
+            "skip_existing_chunks": false
+          }
         },
         {
           "type": "minecraft:item",
@@ -154,7 +207,14 @@
                 "max": 2
               }
             }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:set_count",
+            "count": {
+              "min": 1,
+              "max": 2
+            }
+          }
         },
         {
           "type": "minecraft:item",

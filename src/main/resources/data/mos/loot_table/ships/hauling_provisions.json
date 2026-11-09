@@ -8,19 +8,22 @@
           "type": "minecraft:item",
           "name": "minecraft:cod",
           "weight": 22,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 3, "max": 8 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 3, "max": 8 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 3, "max": 8}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:salmon",
           "weight": 18,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 6}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:bread",
           "weight": 20,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 6}}
         },
         {
           "type": "minecraft:empty",

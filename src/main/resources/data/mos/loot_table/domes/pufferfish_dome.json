@@ -15,7 +15,13 @@
                 "minecraft:potion_contents": "minecraft:water_breathing"
               }
             }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:set_components",
+            "components": {
+              "minecraft:potion_contents": "minecraft:water_breathing"
+            }
+          }
         },
         {
           "type": "minecraft:item",
@@ -28,7 +34,13 @@
                 "minecraft:potion_contents": "minecraft:long_water_breathing"
               }
             }
-          ]
+          ],
+          "modifier": {
+            "type": "minecraft:set_components",
+            "components": {
+              "minecraft:potion_contents": "minecraft:long_water_breathing"
+            }
+          }
         },
         {
           "type": "minecraft:empty",
@@ -43,31 +55,36 @@
           "type": "minecraft:item",
           "name": "minecraft:cod",
           "weight": 20,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 5 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 5}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:salmon",
           "weight": 16,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 4 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 4 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 1, "max": 4}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:tropical_fish",
           "weight": 10,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 3 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 3 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 1, "max": 3}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:pufferfish",
           "weight": 8,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 2 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 2 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 1, "max": 2}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:kelp",
           "weight": 10,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 6 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 2, "max": 6}}
         },
         {
           "type": "minecraft:empty",
@@ -82,19 +99,22 @@
           "type": "minecraft:item",
           "name": "minecraft:gold_ingot",
           "weight": 16,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 4 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 4 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 1, "max": 4}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:gold_nugget",
           "weight": 18,
-          "functions": [{ "function": "minecraft:set_count", "count": { "min": 4, "max": 10 } }]
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 4, "max": 10 } }],
+          "modifier": {"type": "minecraft:set_count", "count": {"min": 4, "max": 10}}
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond_helmet",
           "weight": 4,
-          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }]
+          "functions": [{ "function": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot" }],
+          "modifier": {"type": "minecraft:enchant_randomly", "options": "#minecraft:on_random_loot"}
         },
         {
           "type": "minecraft:empty",
