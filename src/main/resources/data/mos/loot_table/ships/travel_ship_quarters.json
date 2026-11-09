@@ -187,13 +187,30 @@
               "skip_existing_chunks": false
             }
           ],
-          "modifier": {
-            "type": "minecraft:exploration_map",
-            "destination": "#minecraft:on_treasure_maps",
-            "decoration": "red_x",
-            "zoom": 1,
-            "skip_existing_chunks": false
-          }
+          "modifier": [
+            {
+              "type": "minecraft:set_item",
+              "item": "minecraft:buried_treasure_map"
+            },
+            {
+              "type": "minecraft:exploration_map",
+              "destination": "#minecraft:on_treasure_maps",
+              "decoration": "red_x",
+              "zoom": 1,
+              "skip_existing_chunks": false
+            },
+            {
+              "type": "minecraft:filtered",
+              "item_filter": {
+                "predicates": {
+                  "minecraft:map_id": {}
+                }
+              },
+              "on_fail": {
+                "type": "minecraft:discard"
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
