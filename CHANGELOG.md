@@ -2,6 +2,11 @@
 
 ### Fixed
 - Chests on Minecraft 26.3 now give full stacks and enchanted items, the same as on older versions
+- Treasure maps found aboard ships and wrecks now lead to buried treasure instead of being blank
+- Drowned from the trial spawners in the Atlantis tribune and the small ocean temple now hold their tridents on Minecraft 1.21.5 and newer
+
+### Changed
+- Now requires Moog's Structure Lib 3.0.0 or newer
 
 ## [1.1.1] - 2026-09-17
 
