@@ -28,7 +28,17 @@
           "HandDropChances": [
             0.05,
             0.0
-          ]
+          ],
+          "equipment": {
+            "mainhand": {
+              "id": "minecraft:trident",
+              "count": 1
+            }
+          },
+          "drop_chances": {
+            "mainhand": 0.05,
+            "offhand": 0.0
+          }
         }
       }
     },
