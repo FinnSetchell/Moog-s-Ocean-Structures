@@ -2,6 +2,7 @@
 
 ### Fixed
 - Treasure maps found aboard ships and wrecks now lead to buried treasure instead of being blank
+- Fixed the mod not loading on NeoForge 1.20.5
 
 ### Changed
 - Now requires Moog's Structure Lib 3.0.0 or newer
