@@ -60,6 +60,38 @@
           "weight": 24
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "mos:on_small_ocean_temple_maps",
+              "decoration": "monument",
+              "zoom": 2,
+              "search_radius": 5,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "filled_map.mos.scholar_s_chart_of_the_sea_temple",
+                "fallback": "Scholar's Chart of the Sea Temple"
+              },
+              "target": "item_name"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 2
+        }
+      ]
     }
   ]
 }

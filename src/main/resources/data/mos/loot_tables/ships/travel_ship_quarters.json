@@ -131,7 +131,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:map",
-          "weight": 8,
+          "weight": 4,
           "functions": [
             {
               "function": "minecraft:exploration_map",
@@ -139,6 +139,29 @@
               "decoration": "red_x",
               "zoom": 1,
               "skip_existing_chunks": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "mos:on_seabed_treasure_maps",
+              "decoration": "red_x",
+              "zoom": 1,
+              "search_radius": 6,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "filled_map.mos.sea_floor_treasure_map",
+                "fallback": "Sea Floor Treasure Map"
+              },
+              "target": "item_name"
             }
           ]
         },

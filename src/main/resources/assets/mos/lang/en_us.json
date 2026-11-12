@@ -5,5 +5,17 @@
   "mos.releases": "GitHub Releases",
   "mos.kofi": "Ko-fi",
   "mos.curseforge": "CurseForge",
-  "mos.modrinth": "Modrinth"
+  "mos.modrinth": "Modrinth",
+  "filled_map.mos.chart_of_the_lost_city": "Chart of the Lost City",
+  "filled_map.mos.traveller_s_chart_to_the_tribune": "Traveller's Chart to the Tribune",
+  "filled_map.mos.scholar_s_chart_of_the_sea_temple": "Scholar's Chart of the Sea Temple",
+  "filled_map.mos.dragonslayer_s_map": "Dragonslayer's Map",
+  "filled_map.mos.hidden_stash_map": "Hidden Stash Map",
+  "filled_map.mos.sunken_galleon_chart": "Sunken Galleon Chart",
+  "filled_map.mos.wanderer_s_map_of_the_great_bones": "Wanderer's Map of the Great Bones",
+  "filled_map.mos.pilgrim_s_chart_to_the_shrine": "Pilgrim's Chart to the Shrine",
+  "filled_map.mos.pearl_diver_s_map": "Pearl Diver's Map",
+  "filled_map.mos.map_of_the_stone_hound": "Map of the Stone Hound",
+  "filled_map.mos.merchant_s_manifest": "Merchant's Manifest",
+  "filled_map.mos.sea_floor_treasure_map": "Sea Floor Treasure Map"
 }

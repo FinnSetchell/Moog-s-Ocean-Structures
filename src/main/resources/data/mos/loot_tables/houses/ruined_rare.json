@@ -81,6 +81,38 @@
           "weight": 20
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "mos:on_seabed_treasure_maps",
+              "decoration": "red_x",
+              "zoom": 2,
+              "search_radius": 6,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "filled_map.mos.hidden_stash_map",
+                "fallback": "Hidden Stash Map"
+              },
+              "target": "item_name"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 2
+        }
+      ]
     }
   ]
 }
