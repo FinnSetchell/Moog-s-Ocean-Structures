@@ -112,7 +112,7 @@
               "destination": "mos:on_sunken_ship_maps",
               "decoration": "red_x",
               "zoom": 2,
-              "search_radius": 4,
+              "search_radius": 6,
               "skip_existing_chunks": false
             },
             {
@@ -134,7 +134,7 @@
               "destination": "#mos:on_sunken_ship_maps",
               "decoration": "red_x",
               "zoom": 2,
-              "search_radius": 4,
+              "search_radius": 6,
               "skip_existing_chunks": false
             },
             {
