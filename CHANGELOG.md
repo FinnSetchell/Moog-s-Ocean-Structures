@@ -1,11 +1,16 @@
 ## [1.1.2]
 
+### Added
+- Chests can hold maps that lead to Atlantis, the Atlantis Tribune, the Sea Temple, the sea dragon and dragon skeletons, the sea-floor treasure, the Sunken Galleon, the Underwater Shrine, the Conduit Arch, the Stone Hound and the rare travel ship
+
 ### Fixed
 - Chests on Minecraft 26.3 now give full stacks and enchanted items, the same as on older versions
 - Treasure maps found aboard ships and wrecks now lead to buried treasure instead of being blank
 - Drowned from the Atlantis tribune's trial spawners and the small ocean temple's ominous trial spawner now hold their tridents on Minecraft 1.21.5 and newer
+- Brushing the gravel in the dragon skeletons and the ruined wall now finds loot
 
 ### Changed
+- Half the treasure maps in shipwrecks, sunken cabins and travel ship quarters now lead to treasure on the sea floor instead of a beach
 - Now requires Moog's Structure Lib 3.0.0 or newer
 
 ## [1.1.1] - 2026-09-17
