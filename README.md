@@ -6,7 +6,7 @@
 
 [![My projects](https://img.shields.io/badge/CurseForge-projects-c3bf46?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/members/finndog_123/projects)
 
-[![My projects](https://img.shields.io/badge/Modrinth-projects-c3bf46?style=for-the-badge&logo=modrinth)](https://modrinth.com/user/FinnSetchell)
+[![My projects](https://img.shields.io/badge/Modrinth-projects-c3bf46?style=for-the-badge&logo=modrinth)](https://modrinth.com/user/FinnDog_123)
 
 ![Overview Banner](https://pub-24a4e0e7ea8544a5b6f73c3a23512589.r2.dev/images/a374a7b0807145dab2c87c42fc913f2a.png)
 
@@ -22,11 +22,11 @@ To see some of the structures, head to the [images tab](https://www.curseforge.c
 
 ### PREVIEWS
 
-[![Browse every structure live in 3D](https://pub-24a4e0e7ea8544a5b6f73c3a23512589.r2.dev/images/f8fe835413394a76b10a678afefea30f.png)](https://previews.moogsmods.com/ocean-structures/1.21/)
+[![Browse every structure live in 3D](https://pub-24a4e0e7ea8544a5b6f73c3a23512589.r2.dev/images/f8fe835413394a76b10a678afefea30f.png)](https://previews.moogsmods.com/ocean-structures/1.21.1/)
 
 ![Showcase Banner](https://pub-24a4e0e7ea8544a5b6f73c3a23512589.r2.dev/images/19a44946985740a0b930f07bfd5b7fe7.png)
 
-Checkout the [gallery](https://www.curseforge.com/minecraft/mc-mods/mos-moogs-ocean-structures/gallery)
+Checkout the [gallery](https://modrinth.com/mod/mos-moogs-ocean-structures/gallery)
 
 ### CONFIG PACK
 
@@ -36,7 +36,7 @@ For details on how to write and load config datapacks, see the [Moog's Structure
 
 ### VIDEOS
 
-_If you have any videos featuring this mod that you'd like showcased here, message me on Discord!_
+*If you have any videos featuring this mod that you'd like showcased here, message me on Discord!*
 
 ### MODPACKS
 
