@@ -1,0 +1,18 @@
+{
+  "name": "mos:ocean_temple",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mos:1_21_0/ocean_temple/main",
+        "locations": {
+          "1.21-26.3": "mos:1_21_0/ocean_temple/main"
+        },
+        "projection": "rigid",
+        "processors": "mos:ocean_temple"
+      }
+    }
+  ]
+}
