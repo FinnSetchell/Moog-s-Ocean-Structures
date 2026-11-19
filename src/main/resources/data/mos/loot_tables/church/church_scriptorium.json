@@ -73,7 +73,7 @@
               "function": "minecraft:exploration_map",
               "destination": "mos:on_small_ocean_temple_maps",
               "decoration": "monument",
-              "zoom": 2,
+              "zoom": 3,
               "search_radius": 5,
               "skip_existing_chunks": false
             },

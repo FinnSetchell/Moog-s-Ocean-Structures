@@ -89,7 +89,7 @@
               "function": "minecraft:exploration_map",
               "destination": "mos:on_underwater_shrine_maps",
               "decoration": "target_x",
-              "zoom": 2,
+              "zoom": 3,
               "search_radius": 6,
               "skip_existing_chunks": false
             },
