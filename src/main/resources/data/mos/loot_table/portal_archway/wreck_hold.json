@@ -107,7 +107,7 @@
               "function": "minecraft:exploration_map",
               "destination": "mos:on_rare_travel_ship_maps",
               "decoration": "red_x",
-              "zoom": 2,
+              "zoom": 3,
               "search_radius": 2,
               "skip_existing_chunks": false
             },
@@ -129,7 +129,7 @@
               "type": "minecraft:exploration_map",
               "destination": "#mos:on_rare_travel_ship_maps",
               "decoration": "red_x",
-              "zoom": 2,
+              "zoom": 3,
               "search_radius": 2,
               "skip_existing_chunks": false
             },

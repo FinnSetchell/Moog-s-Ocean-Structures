@@ -182,7 +182,7 @@
               "function": "minecraft:exploration_map",
               "destination": "mos:on_atlantis_ruins_maps",
               "decoration": "monument",
-              "zoom": 2,
+              "zoom": 3,
               "search_radius": 4,
               "skip_existing_chunks": false
             },
@@ -204,7 +204,7 @@
               "type": "minecraft:exploration_map",
               "destination": "#mos:on_atlantis_ruins_maps",
               "decoration": "monument",
-              "zoom": 2,
+              "zoom": 3,
               "search_radius": 4,
               "skip_existing_chunks": false
             },
