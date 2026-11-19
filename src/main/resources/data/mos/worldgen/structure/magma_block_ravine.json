@@ -8,6 +8,12 @@
     "absolute": 0
   },
   "terrain_adaptation": "none",
+  "enhanced_terrain_adaptation": {
+    "kernel_size": 24,
+    "kernel_distance": 64,
+    "top": "none",
+    "bottom": "bury"
+  },
   "cannot_spawn_in_liquid": false,
   "fully_submerged": true,
   "project_start_to_heightmap": "OCEAN_FLOOR_WG",
