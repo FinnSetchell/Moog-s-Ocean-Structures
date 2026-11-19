@@ -13,6 +13,7 @@
 - Fixed the mod not loading on NeoForge 1.20.5
 - Brushing the gravel in the dragon skeletons and the ruined wall now finds loot
 - The Atlantis Tribune, the small ocean temple and the sunken birch and spruce ships no longer have air pockets underwater from buttons and pressure plates
+- Chests that couldn't be opened because of a block above them now open; the small ocean temple's trapped reward chests are now barrels
 
 ### Changed
 - Half the treasure maps in shipwrecks, sunken cabins and travel ship quarters now lead to treasure on the sea floor instead of a beach
