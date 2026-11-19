@@ -6,13 +6,14 @@
       "weight": 1,
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
-        "location": "mos:1_21_9/oak_long_ship/rear",
+        "location": "mos:26_3_0/oak_long_ship/rear",
         "locations": {
           "1.21-1.21.1": "mos:1_21_0/oak_long_ship/rear",
           "1.21.2-1.21.4": "mos:1_21_2/oak_long_ship/rear",
           "1.21.5": "mos:1_21_5/oak_long_ship/rear",
           "1.21.6-1.21.8": "mos:1_21_6/oak_long_ship/rear",
-          "1.21.9-26.3": "mos:1_21_9/oak_long_ship/rear"
+          "1.21.9-26.2": "mos:1_21_9/oak_long_ship/rear",
+          "26.3": "mos:26_3_0/oak_long_ship/rear"
         },
         "projection": "rigid",
         "processors": "minecraft:empty"
